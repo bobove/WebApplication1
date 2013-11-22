@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>Erik WebApplication1</title>
     <script>
         function myFunction() {
             document.getElementById("demo").innerHTML = "Hello World";
