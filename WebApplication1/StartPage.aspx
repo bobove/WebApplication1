@@ -17,7 +17,7 @@
     <h1 style="text-align :center">Erik testar AppHarbor</h1>
     </div>
         <div>
-        <a href="#"  onclick="myFunction();" style="text-align :center">Click me</a> 
+        <a href="#"  onclick="myFunction();" style="text-align :center">Click me!</a> 
             </div>
 <p id="demo"></p>
     </form>
