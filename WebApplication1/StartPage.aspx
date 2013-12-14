@@ -20,7 +20,7 @@
         <a href="#"  onclick="myFunction();" style="text-align :center">Click me!</a> 
             </div>
 <p id="demo"></p>
-        <asp:GridView ID="GridView1" runat="server">
+        <asp:GridView ID="GridView1" runat="server" Width="586px">
         </asp:GridView>
     </form>
 </body>
