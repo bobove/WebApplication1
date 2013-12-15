@@ -22,6 +22,7 @@
 <p id="demo"></p>
         <asp:GridView ID="GridView1" runat="server" Width="586px">
         </asp:GridView>
+        <asp:Image ID="Image1" runat="server" ImageUrl="~/img/Innebandyboll.jpg" />
     </form>
 </body>
 </html>
